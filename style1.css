@@ -151,11 +151,111 @@
         .qrimg img{
             position: relative;
             left: 1150px;
-            bottom: 547px;
+            bottom: 1077px;
             height: 90px;
             width: 90px;
             background-color: rgb(239, 239, 247);
             border: 10px solid blue;
             border-radius: 10px 0 10px 0;
             
+        }
+        .earth img{
+            position: relative;
+            left: 65px;
+            height: 25px;
+            width: 25px;
+            bottom: 802px;
+
+        }
+        .earth P A{
+            position: relative;
+            left: 100px;
+            bottom: 827px;
+            color: blue;
+        }
+        .contact p{
+            position: relative;
+            left: 100px;
+            color: rgb(64, 64, 218);
+            bottom: 810px;
+        }
+        .lastimg img{
+            position: relative;
+            left: 355px;
+
+            bottom: 681px;
+            height: 31px;
+            width: 31px;
+            padding: 1px;
+        }
+        .img8 IMG {
+            position: relative;
+            bottom: 604px;
+            left: 123px;
+            height: 55px;
+            width: 55px;
+        }
+        .img8 P{
+            position: relative;
+            bottom: 585px;
+            left: 123px;
+            width: 80px;
+            color: rgb(54, 78, 177);
+        }
+        .img8 hr{
+            position: relative;
+            width: 143px;
+            margin-left: 91px;
+            margin-right: 25px;
+            bottom: 590px;
+            border: 1px solid rgb(54, 78, 177);
+        }
+
+        .img2 IMG {
+            position: relative;
+            bottom: 739px;
+            left: 403px;
+            height: 55px;
+            width: 55px;
+        }
+        .img2 p{
+            position: relative;
+            bottom: 731px;
+            left: 383px;
+            width: 110px;
+            color: rgb(54, 78, 177);
+        }
+
+        .img2 hr{
+            position: relative;
+            width: 143px;
+            margin-left: 361px;
+            margin-right: 25px;
+            bottom: 725px;
+            border: 1px solid rgb(54, 78, 177);
+        }
+
+        .img3 IMG {
+            position: relative;
+            bottom: 873px;
+            left: 713px;
+            height: 55px;
+            width: 55px;
+        }
+
+        .img3 p{
+            position: relative;
+            bottom: 851px;
+            left: 693px;
+            width: 110px;
+            color: rgb(54, 78, 177);
+        }
+
+        .img3 hr{
+            position: relative;
+            width: 143px;
+            margin-left: 675px;
+            margin-right: 35px;
+            bottom: 835px;
+            border: 1px solid rgb(54, 78, 177);
         }
