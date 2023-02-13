@@ -1,3 +1,7 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -10,16 +14,44 @@
 }
 .imgtop img{
     position: absolute;
-    top: 20px;
-    left: 305px;
+    top: 50px;
+    left: 625px;
     right: 30px;
     height: 40px;
     width: 40px;
 }
 .img1 p{
     position: absolute;
-    left: 353px;
-    top: 25px;
+    left: 683px;
+    top: 55px;
     color: rgb(77, 77, 141);
     font-weight: 886;
+}
+.imgtop b{
+    position: absolute;
+    text-align: center;
+    /* padding-top: 18px;
+    margin-bottom: 50px; */
+    left: 83px;
+    top: 433px;
+    background-color: rgb(110, 110, 189);
+    color: azure;
+    height: 105px;
+    width: 1350px;
+    font-size: 70px;
+    font-family: 'Playfair Display', serif;
+    border-radius: 57px 0 57px 0;
+}
+.midtext p{
+    position: absolute;
+    top: 450px;
+    background-color: rgb(115, 240, 199);
+    margin-top: 87px;
+    width: 1120px;
+    height: 51px;
+    font-size: 25px;
+    color: rgb(253, 255, 255);
+    left: 190px;
+    text-align: center;
+    font-size: 37px;
 }
